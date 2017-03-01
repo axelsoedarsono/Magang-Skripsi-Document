@@ -1,0 +1,85 @@
+Derwin Suhartono, S.Kom., M.T.I.
+================================
+1. Perbaiki cara menulis kutipan
+Seluruh bab 2 (halaman 5-33) (halaman 19-47 di PDF)
+
+2. Ganti literatur yang sudah lama dengan yang baru
+Halaman 207 (halaman 221 di PDF)
+
+3. Lakukan perbandingan dengan aplikasi sejenis
+Halaman 203 (halaman 217 di PDF)
+
+4. Teori class diagram masih kurang lengkap
+Halaman 18-24 (halaman 32-38 di PDF)
+
+5. Software design document
+Halaman 50 (halaman 64 di PDF)
+
+6. Jangan tuliskan jurnal, jika bukan dari jurnal
+Sumber sudah diganti menjadi jurnal. Halaman 207 (halaman 221 di PDF)
+
+7. Rumusan masalah harus valid
+Rumusan masalah sudah diganti. Halaman 2 (halaman 16 di PDF)
+
+8. Daftar pustaka diperbaiki sesuai yang terkutip. Perhatikan juga cara penulisannya
+Halaman 207 (halaman 221 di PDF)
+
+9. Tambahkan responden kuesioner
+Halaman 44 (halaman 58 di PDF)
+
+10. Activity diagram diperbaiki
+Halaman 90 (halaman 104 di PDF)
+
+11. Sequence diagram diperbaiki
+Halaman 116 (halaman 130 di PDF)
+
+12. Use case narrative dibenahi sesuai teori
+Halaman 53 (halaman 67 di PDF)
+
+13. Kerangka berpikir dijadikan 1 halaman saja
+Halaman 39 (halaman 53 di PDF)
+
+14. Berikan deskripsi sebelum software testing
+Halaman 194 (halaman 208 di PDF)
+
+=====================
+Diana, S.Kom., M.T.I.
+=====================
+1. Pada bab 2 dihilangkan teori umum dan teori khusus (cek buku panduan)
+Halaman 5 (halaman 19 di PDF)
+
+2. Cari sumber referensi dari website resmi dan perbaiki cara citasi untuk sumber dari website
+Seluruh bab 2 (halaman 5-33) (halaman 19-47 di PDF)
+
+3. Halaman 36, perbaiki kesimpulan dari kuesioner no. 1
+Halaman 44 (halaman 58 di PDF)
+
+4. Hasil kuesioner dengan perusahaan diubah jadi bentuk hasil interview
+Halaman 48 (halaman 62 di PDF)
+
+5. Tambahkan teori simbol-simbol pada class diagram
+Halaman 18-24 (halaman 32-38 di PDF)
+
+6. Ganti kata-kata pada activity diagram dengan kata kerja (contoh halaman 68)
+Halaman 90-113 (halaman 104-127 di PDF)
+
+7. Perbaiki class diagram (buat dalam bentuk MVC)
+Halaman 115 (halaman 129 di PDF)
+
+8. Perbaiki sequence (sesuaikan dengan class diagram)
+Halaman 116-140 (halaman 130-154 di PDF)
+
+9. Buat use case naratif sesuai teori di bab 2
+Halaman 53 (halaman 67 di PDF)
+
+10. Perbaiki simpulan, cari bukti untuk simpulan no. 2
+Halaman 205 (halaman 219 di PDF)
+
+11. Perbaiki use case (masih ada hubungan yang belum lengkap)
+Halaman 52 (halaman 66 di PDF)
+
+12. Bagian evaluasi tambahkan screenshot bukti
+Halaman 196-203 (halaman 210-217 di PDF)
+
+13. Cari 3 jurnal yang relevan (bukan dari website)
+Sumber sudah diganti menjadi jurnal. Halaman 207 (halaman 221 di PDF)

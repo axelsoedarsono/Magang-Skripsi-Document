@@ -1,0 +1,32 @@
+Derwin Suhartono, S.Kom., M.T.I.
+================================
+1. Perbaiki cara menulis kutipan
+2. Ganti literatur yang sudah lama dengan yang baru
+3. Lakukan perbandingan dengan aplikasi sejenis
+4. Teori class diagram masih kurang lengkap
+5. Software design document
+6. Jangan tuliskan jurnal, jika bukan dari jurnal
+7. Rumusan masalah harus valid
+8. Daftar pustaka diperbaiki sesuai yang terkutip. Perhatikan juga cara penulisannya
+9. Tambahkan responden kuesioner
+10. Activity diagram diperbaiki
+11. Sequence diagram diperbaiki
+12. Use case narrative dibenahi sesuai teori
+13. Kerangka berpikir dijadikan 1 halaman saja
+14. Berikan deskripsi sebelum software testing
+
+Diana, S.Kom., M.T.I.
+=====================
+1. Pada bab 2 dihilangkan teori umum dan teori khusus (cek buku panduan)
+2. Cari sumber referensi dari website resmi dan perbaiki cara citasi untuk sumber dari website
+3. Halaman 36, perbaiki kesimpulan dari kuesioner no. 1
+4. Hasil kuesioner dengan perusahaan diubah jadi bentuk hasil interview
+5. Tambahkan teori simbol-simbol pada class diagram
+6. Ganti kata-kata pada activity diagram dengan kata kerja (contoh halaman 68)
+7. Perbaiki class diagram (buat dalam bentuk MVC)
+8. Perbaiki sequence (sesuaikan dengan class diagram)
+9. Buat use case naratif sesuai teori di bab 2
+10. Perbaiki simpulan, cari bukti untuk simpulan no. 2
+11. Perbaiki use case (masih ada hubungan yang belum lengkap)
+12. Bagian evaluasi tambahkan screenshot bukti
+13. Cari 3 jurnal yang relevan (bukan dari website)
